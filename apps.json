@@ -1,0 +1,10 @@
+{
+  "name": "MyApp",
+  "identifier": "com.example.myapp",
+  "version": "1.0",
+  "versionDate": "2025-07-22",
+  "versionDescription": "Initial release",
+  "downloadURL": "https://github.com/AprilSum/YTLite/releases/download/Sidelode/YouTubePlus_5.2b1.ipa",
+  "iconURL": "https://yourdomain.com/icon.png",
+  "tintColor": "0000FF"
+}
